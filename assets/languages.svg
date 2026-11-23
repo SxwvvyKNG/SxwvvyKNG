@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="286" viewBox="0 0 860 286" role="img" aria-labelledby="title desc">
+  <title id="title">Most Used Languages</title>
+  <desc id="desc">Estimated language mix from past project conversations. Luau 73%, JavaScript 10%, CSS 6%, TypeScript 5%, SQL 4%, HTML 2%.</desc>
+  <rect x="1" y="1" width="858" height="284" rx="18" fill="#151421" stroke="#534865" stroke-width="2"/>
+  <g font-family="system-ui, sans-serif" font-size="21" font-weight="600" fill="#f4edff">
+    <text x="30" y="46">Luau</text>
+    <rect x="190" y="34" width="540" height="10" rx="5" fill="#373145"/>
+    <rect x="190" y="34" width="394.2" height="10" rx="5" fill="#87eedc"/>
+    <text x="827" y="46" text-anchor="end" fill="#87eedc">73%</text>
+    <text x="30" y="88">JavaScript</text>
+    <rect x="190" y="76" width="540" height="10" rx="5" fill="#373145"/>
+    <rect x="190" y="76" width="54" height="10" rx="5" fill="#ffd489"/>
+    <text x="827" y="88" text-anchor="end" fill="#ffd489">10%</text>
+    <text x="30" y="130">CSS</text>
+    <rect x="190" y="118" width="540" height="10" rx="5" fill="#373145"/>
+    <rect x="190" y="118" width="32.4" height="10" rx="5" fill="#c6a4ff"/>
+    <text x="827" y="130" text-anchor="end" fill="#c6a4ff">6%</text>
+    <text x="30" y="172">TypeScript</text>
+    <rect x="190" y="160" width="540" height="10" rx="5" fill="#373145"/>
+    <rect x="190" y="160" width="27" height="10" rx="5" fill="#91b8ff"/>
+    <text x="827" y="172" text-anchor="end" fill="#91b8ff">5%</text>
+    <text x="30" y="214">SQL</text>
+    <rect x="190" y="202" width="540" height="10" rx="5" fill="#373145"/>
+    <rect x="190" y="202" width="21.6" height="10" rx="5" fill="#72d2ff"/>
+    <text x="827" y="214" text-anchor="end" fill="#72d2ff">4%</text>
+    <text x="30" y="256">HTML</text>
+    <rect x="190" y="244" width="540" height="10" rx="5" fill="#373145"/>
+    <rect x="190" y="244" width="10.8" height="10" rx="5" fill="#ffadac"/>
+    <text x="827" y="256" text-anchor="end" fill="#ffadac">2%</text>
+  </g>
+</svg>
