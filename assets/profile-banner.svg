@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-labelledby="title desc">
+  <title id="title">SxwvvyKNG</title>
+  <desc id="desc">A violet and mint isometric emblem floats over a dark grid, next to the name SxwvvyKNG.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#10121f"/><stop offset="1" stop-color="#211535"/>
+    </linearGradient>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#70f3d5"/><stop offset=".55" stop-color="#bca2ff"/><stop offset="1" stop-color="#ffb97d"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#bca2ff"/><stop offset="1" stop-color="#72f4d1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" fill="none" stroke="#bca2ff" stroke-opacity=".10"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1078" height="298" rx="23"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path d="M0 0h1080v300H0z" fill="url(#background)"/>
+    <path d="M0 0h1080v300H0z" fill="url(#grid)"/>
+    <ellipse cx="827" cy="151" rx="175" ry="72" fill="none" stroke="#c5afff" stroke-opacity=".21" transform="rotate(-18 827 151)"/>
+    <ellipse cx="827" cy="151" rx="213" ry="94" fill="none" stroke="#c5afff" stroke-opacity=".15" stroke-dasharray="3 9" transform="rotate(-18 827 151)"/>
+    <path d="M0 248C210 284 307 205 513 231S854 312 1080 221V300H0Z" fill="url(#spectrum)" opacity=".16"/>
+    <path d="M0 264C244 303 354 222 552 243S864 308 1080 239" fill="none" stroke="url(#spectrum)" stroke-width="2" opacity=".83"/>
+    <rect x="62" y="64" width="6" height="24" rx="3" fill="#79f0d0"/>
+    <text x="84" y="82" fill="#a9eddd" font-family="monospace" font-size="18" letter-spacing="4">DEVELOPER PROFILE</text>
+    <text x="59" y="161" fill="#f7f3ff" font-family="system-ui, sans-serif" font-size="72" font-weight="800" letter-spacing="-3">SxwvvyKNG</text>
+    <path d="M62 191h76" stroke="url(#spectrum)" stroke-width="4" stroke-linecap="round"/>
+    <g stroke="#f1e7ff" stroke-width="1.5" stroke-linejoin="round">
+      <path d="m746 121 79-46 82 46-80 47z" fill="url(#top)"/>
+      <path d="m746 121 81 47v70l-81-47z" fill="#6d54bd"/>
+      <path d="m827 168 80-47v70l-80 47z" fill="#372b64"/>
+      <path d="m801 121 25-15 26 15-26 15z" fill="#211b36" stroke="#f1e7ff"/>
+      <path d="m801 121 25 15 26-15-26 6z" fill="#565b84" stroke="none"/>
+      <path d="m760 153 51 30m-51-9 35 21m47-11 49-28m-49 49 30-17" fill="none" stroke-opacity=".6"/>
+    </g>
+    <g fill="#a9eddd">
+      <path d="M942 78h20m-10-10v20m-266 82h16m-8-8v16" fill="none" stroke="#a9eddd" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="702" cy="104" r="3"/><circle cx="973" cy="182" r="4"/><circle cx="908" cy="219" r="3"/>
+    </g>
+    <circle cx="892" cy="61" r="4" fill="#ffbf92"/>
+  </g>
+  <rect x="1" y="1" width="1078" height="298" rx="23" fill="none" stroke="#8f7bb7" stroke-opacity=".45" stroke-width="2"/>
+</svg>
