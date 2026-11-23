@@ -16,10 +16,10 @@ I build web apps from the user interface through to the APIs and database. I als
 
 | Area | What I work with |
 | --- | --- |
-| 🎨 **Web frontend** | JavaScript, TypeScript, HTML, CSS, React, Next.js, Vite, and Tailwind CSS |
-| 🗄️ **Backend & data** | Node.js, API integrations, OAuth, SQL, PostgreSQL, Supabase, and Prisma |
-| 🎮 **Roblox & Luau** | Luau, Roblox Studio, Rojo, client and server scripting, gameplay systems, UI, progression, and player data |
-| 🧰 **Development tools** | Git, GitHub, and VS Code |
+| **Web frontend** | JavaScript, TypeScript, HTML, CSS, React, Next.js, Vite, and Tailwind CSS |
+| **Backend & data** | Node.js, API integrations, OAuth, SQL, PostgreSQL, Supabase, and Prisma |
+| **Roblox & Luau** | Luau, Roblox Studio, Rojo, client and server scripting, gameplay systems, UI, progression, and player data |
+| **Development tools** | Git, GitHub, and VS Code |
 
 ## Most Used Languages
 
