@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" alt="SxwvvyKNG" width="1080">
 </p>
 
-<h1 align="center">Web developer &amp; full-stack Luau programmer</h1>
+<h1 align="center">Full-stack programmer</h1>
 
 <p align="center">
   <a href="#skills">Skills</a> &nbsp;·&nbsp;
@@ -10,22 +10,20 @@
   <a href="#contacts">Contacts</a>
 </p>
 
-I build Roblox games and web apps. In Roblox, I work on both sides of the game, from what players see and click to the server code that runs progression and saves their data. On the web, I build interfaces, APIs, and the database pieces that connect them.
+I build web apps from the user interface through to the APIs and database. I also build Roblox experiences in Luau, working on gameplay, UI, and the server systems that handle progression and save player data.
 
 ## Skills
 
 | Area | What I work with |
 | --- | --- |
-| 🎮 **Roblox & Luau** | Luau, Roblox Studio, Rojo, client and server scripting, gameplay systems, UI, progression, and player data |
 | 🎨 **Web frontend** | JavaScript, TypeScript, HTML, CSS, React, Next.js, Vite, and Tailwind CSS |
 | 🗄️ **Backend & data** | Node.js, API integrations, OAuth, SQL, PostgreSQL, Supabase, and Prisma |
+| 🎮 **Roblox & Luau** | Luau, Roblox Studio, Rojo, client and server scripting, gameplay systems, UI, progression, and player data |
 | 🧰 **Development tools** | Git, GitHub, and VS Code |
 
 ## Most Used Languages
 
-*Rough estimates from eight Luau-focused chats and three web projects. The web split reflects the languages used in those projects.*
-
-<img src="./assets/languages.svg" alt="Luau 73%, JavaScript 10%, CSS 6%, TypeScript 5%, SQL 4%, HTML 2%." width="860">
+<img src="./assets/languages.svg" alt="Estimated language mix: Luau 73%, JavaScript 10%, CSS 6%, TypeScript 5%, SQL 4%, HTML 2%." width="860">
 
 ## Contacts
 
