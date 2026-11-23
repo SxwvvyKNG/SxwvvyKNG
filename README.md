@@ -1,48 +1,34 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="SxwvvyKNG" width="1080">
+</p>
 
-# ✦ Hey, I'm SxwvvyKNG ✦
+<h1 align="center">Web developer &amp; full-stack Luau programmer</h1>
 
-### Building worlds, systems & the bits in between.
+<p align="center">
+  <a href="#skills">Skills</a> &nbsp;·&nbsp;
+  <a href="#most-used-languages">Languages</a> &nbsp;·&nbsp;
+  <a href="#contacts">Contacts</a>
+</p>
 
-**Roblox Luau developer** · **Full-stack builder** · **Professional “one more tweak” enthusiast**
+I build Roblox games and web apps. In Roblox, I work on both sides of the game, from what players see and click to the server code that runs progression and saves their data. On the web, I build interfaces, APIs, and the database pieces that connect them.
 
-[![Roblox](https://img.shields.io/badge/Find_me_on-Roblox-8B5CF6?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3221852843/profile)
+## Skills
 
-</div>
+| Area | What I work with |
+| --- | --- |
+| 🎮 **Roblox & Luau** | Luau, Roblox Studio, Rojo, client and server scripting, gameplay systems, UI, progression, and player data |
+| 🎨 **Web frontend** | JavaScript, TypeScript, HTML, CSS, React, Next.js, Vite, and Tailwind CSS |
+| 🗄️ **Backend & data** | Node.js, API integrations, OAuth, SQL, PostgreSQL, Supabase, and Prisma |
+| 🧰 **Development tools** | Git, GitHub, and VS Code |
 
----
+## Most Used Languages
 
-## 🎮 Welcome to my corner of the internet
+*Rough estimates from eight Luau-focused chats and three web projects. The web split reflects the languages used in those projects.*
 
-I like taking an idea, pulling it apart, and putting it back together as something people can actually use. Sometimes that means gameplay systems in Roblox; sometimes it means the tools and interfaces working behind the scenes.
+<img src="./assets/languages.svg" alt="Luau 73%, JavaScript 10%, CSS 6%, TypeScript 5%, SQL 4%, HTML 2%." width="860">
 
-> Good experiences are made of a thousand little details. I like building those details.
+## Contacts
 
-## 🧰 The toolbox
-
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🕹️ Choose your adventure
-
-| | What I'm into |
-|:--|:--|
-| 🎮 **Worlds** | Gameplay, systems, and experiences built in Roblox |
-| 🛠️ **Tools** | Dashboards and practical things that make work easier |
-| ✨ **Experiments** | New ideas, small details, and seeing what happens |
-
-## 🌱 A fresh save
-
-This space is ready for whatever I build next. Thanks for stopping by — take a look around, and go make something cool.
-
-<div align="center">
-
-`// end of transmission ✦`
-
-</div>
+- 💬 **Discord** · `sxwvvykng`
+- 🎮 **Roblox** · [SxwvvyKNG](https://www.roblox.com/users/3221852843/profile)
+- ✉️ **Email** · [sawvvygme3@gmail.com](mailto:sawvvygme3@gmail.com)
